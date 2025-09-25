@@ -1,2 +1,2 @@
-# PP
-My introduction to procedural programming through C.
+# Procedural Programming
+My introduction to Procedural Programming through C.
